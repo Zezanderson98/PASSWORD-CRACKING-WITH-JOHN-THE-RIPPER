@@ -370,7 +370,7 @@ Password-Cracking-With-JTR/
 
 ## 🧠 Key Takeaways & Defensive Mitigations
 * **Encryption vs. Hashing:** Encryption is a reversible two-way function requiring a decryption key, whereas hashing is a one-way mathematical function producing a unique message digest.
-* **Vulnerability of Weak Passwords:** Simple dictionary words or predictable patterns (like `password1`) can be cracked within seconds once a file's hash is extracted.
+* **Vulnerability of Weak Passwords:** Simple dictionary words or predictable patterns (like `good-luck`) can be cracked within seconds once a file's hash is extracted.
 * **Strong Password Policies:** Enforce high-entropy passwords (14+ characters combining uppercase, lowercase, numbers, and special symbols) to resist dictionary and brute-force attacks.
 * **Modern Encryption Standards:** Protect sensitive documents using strong encryption algorithms (such as AES-256) and avoid uploading confidential files to third-party online hash extractors in real-world scenarios—prefer local utilities like `pdf2john.pl` or `pdf2john.py`.
 
@@ -382,10 +382,10 @@ This laboratory and repository are intended strictly for educational and authori
 ## 🔗 Tools & Resources
 * **Primary Environment:** Windows PC / Kali Linux Workstation <https://networkwalks.com> Week 3 | Project Module 1)
 * **Cracking & Extraction Suite:** `John the Ripper (JTR)`, `Johnny GUI`, `pdf2john`
-* **Official Documentation:** [Openwall John the Ripper](https://openwall.com) | [Kali Linux Tools Reference](https://kali.org)
+* **Official Documentation:** <https://openwall.com> | <https://kali.org>
 
 ## 👤 Author
 **Anderson Edaiyo Uzezi**  
 Cybersecurity Professional B084  
-LinkedIn: https://linkedin.com
+LinkedIn: https://www.linkedin.com/in/anderson-edaiyo-bab74117b
 
