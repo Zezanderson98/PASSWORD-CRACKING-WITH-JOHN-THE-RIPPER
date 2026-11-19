@@ -1,4 +1,4 @@
-[johnny_2.2_win.zip](https://github.com/user-attachments/files/35099350/johnny_2.2_win.zip)
+
 # NETWORKWALKS-B084-WK3-PM1-PASSWORD-CRACKING-WITH-JTR
 
 
