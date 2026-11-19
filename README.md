@@ -389,3 +389,24 @@ This laboratory and repository are intended strictly for educational and authori
 Cybersecurity Professional B084  
 LinkedIn: https://www.linkedin.com/in/anderson-edaiyo-bab74117b
 
+
+
+
+
+
+## 📊 Project Information Matrix
+
+> **Note:**  
+> This repository contains the complete documentation, environment blueprints, and live verification logs for my Week 03 specialized laboratory deployment focusing on cryptographic PDF hash extraction, rule-based password auditing, and credential recovery using John the Ripper (JTR) and Johnny GUI.
+
+| 🗂️ Project Parameter | ⚙️ Live Deployment Data |
+| :--- | :--- |
+| **Program Track** | Cybersecurity with Ethical Hacking |
+| **Academy Module** | Networkwalks Academy Portfolio Matrix |
+| **Timeline Horizon** | Week 03 Engineering Core |
+| **Project Identity** | Password Cracking with John the Ripper (JTR) |
+| **Target Task ID** | TASK W3-PM1 |
+| **Code Repository** | Public Deployment Hub via GitHub |
+
+
+
